@@ -3,11 +3,11 @@
 
 <channel>
   <title>My github project page!</title>
-  <link>http://aizicmoisen.github.io/GithubProjectPageTest/hello.html</link>
+  <link>http://evelinfoxell.github.io/GithubProjectPageTest/hello.html</link>
   <description>Just saying hello!</description>
   <item>
     <title>RSS Tutorial</title>
-    <link>http://aizicmoisen.github.io/GithubProjectPageTest/hello.html</link>
+    <link>http://evelinfoxell.github.io/GithubProjectPageTest/hello.html</link>
     <description>First RSS item</description>
   </item>
 </channel>
